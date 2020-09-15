@@ -1,0 +1,8 @@
+pandas
+textblob
+nltk
+preprocessor
+emoji
+matplotlib
+gensim
+sklearn
