@@ -1,0 +1,1 @@
+# Covid19-Sentimental-Analysis-by-Twitter-Data
